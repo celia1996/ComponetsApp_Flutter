@@ -6,7 +6,7 @@ final _icons = <String, IconData>{
   'accesibility' : Icons.accessibility,
   'folder_open' : Icons.folder_open,
 
-}
+};
 
 Icon getIcon(String iconName){
   
